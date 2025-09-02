@@ -8,7 +8,8 @@
 ---
 
 ##  Getting Started with Robo ESP32  
-เริ่มต้นที่ Cytron ได้เลยที่: [Getting Started with Robo ESP32 via Arduino IDE (Thai)](https://th.cytron.io/tutorial/getting-started-guide-with-robo-esp32-arduino-ide)  
+เริ่มต้นที่ Cytron ได้เลยที่: [Getting Started with Robo ESP32 via Arduino IDE (Thai)](https://th.cytron.io/tutorial/getting-started-guide-with-robo-esp32-arduino-ide) และ [github](https://github.com/CytronTechnologies/Cytron-ROBO-ESP32.git)
+
 - คู่มือนี้ครอบคลุมตั้งแต่การตั้งค่าบอร์ด ESP32, ติดตั้งไดรเวอร์ CP210x, จ่ายไฟให้บอร์ด และตัวอย่างโค้ดพื้นฐาน
 - การตั้งค่าบอร์ด ESP32: [Setting up the Robo ESP32](https://th.cytron.io/tutorial/setting-up-the-robo-esp32-arduino)
 - วิธีจ่ายไฟให้ Robo ESP32: [Power Up the Robo ESP32](https://th.cytron.io/tutorial/power-up-the-robo-esp32)
